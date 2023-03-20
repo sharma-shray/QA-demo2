@@ -1,4 +1,4 @@
-<h1>&#128736; Laser Hub Demo &#128736;</h1>
+<h1>&#128736; Demo &#128736;</h1>
 
 <h2>Setting up </h2>
 
